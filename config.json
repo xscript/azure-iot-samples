@@ -1,9 +1,0 @@
-{
-    "iot-hub-host": "kevinzha-test-monitor.azure-devices.net",
-    "iot-hub-access-key-name": "iothubowner",
-    "iot-hub-access-key": "0QjY3husZUJiima5rq3/vPQ25jCiHquLKoOAKUgzFG8=",
-    "devices": {
-        "VirtualDevice001": "lublV9noPnKztmbmajBQ/Xmn2mHztCphGYuUany/zvQ=",
-        "VirtualDevice002": "6x81YeVtsmxHuSZnOrIzdWHVLapJIwwCfektf/MsR/M="
-    }
-}
